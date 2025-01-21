@@ -1,7 +1,5 @@
 # **Advanced Calculator App**
 
-## Overview
-
 Welcome to the **Advanced Calculator App** – a versatile and powerful tool designed for both basic and advanced mathematical calculations. Whether you're a student, professional, or simply someone who needs to crunch numbers quickly, this app has you covered!
 
 ---
