@@ -1,39 +1,92 @@
-Advanced Calculator App
-This Advanced Calculator App is a powerful and versatile tool designed to perform a wide range of mathematical and scientific calculations. Whether you're a student, professional, or anyone who needs to perform quick calculations, this app has you covered.
+# **Advanced Calculator App**
 
-Key Features:
-Basic Arithmetic Operations:
+## Overview
 
-Perform addition, subtraction, multiplication, and division easily.
-Advanced Mathematical Calculations:
+Welcome to the **Advanced Calculator App** – a versatile and powerful tool designed for both basic and advanced mathematical calculations. Whether you're a student, professional, or simply someone who needs to crunch numbers quickly, this app has you covered!
 
-Algebra: Solve quadratic equations, linear equations, and simple equations of the form ax + b = 0.
-Calculus: Find derivatives and integrals, and apply the fundamental theorem of calculus.
-Geometry: Calculate the area and perimeter of various shapes like circles, squares, rectangles, and triangles.
-Statistics: Calculate the mean, standard deviation, and probability of events.
-Linear Algebra: Perform matrix multiplication and compute the determinant of a 2x2 matrix.
-Trigonometry: Compute sine, cosine, tangent, and apply the law of sines and cosines.
-History Tracking:
+---
 
-The app keeps a record of all previous calculations, making it easy to reference past results.
-Expression Calculator:
+## **Key Features**
 
-Users can input complex mathematical expressions and get results instantly using the integrated JavaScript engine.
-Customizable Input:
+### **1. Basic Arithmetic Operations:**
+- **Addition**
+- **Subtraction**
+- **Multiplication**
+- **Division**
 
-Based on the selected operation, the input field dynamically adjusts to request the required data (e.g., radius for a circle, side length for a square, etc.).
-How It Works:
-Select Operation:
+Perform essential arithmetic operations with ease.
 
-Choose from a variety of operations (addition, subtraction, area calculations, etc.).
-Enter Inputs:
+---
 
-Based on the selected operation, the app will ask for the necessary input. For example, if the area of a circle is selected, you’ll be asked to enter the radius.
-Submit and View Results:
+### **2. Advanced Mathematical Calculations:**
+- **Algebra**:
+  - Solve **quadratic equations**
+  - Handle **linear equations** like `ax + b = 0`
+  
+- **Calculus**:
+  - Find **derivatives** to determine the rate of change.
+  - Compute **integrals** and apply the **Fundamental Theorem of Calculus**.
 
-After entering the necessary data, click the “Submit” button to get the result instantly. The result will be displayed in the result field, and the history will update with the latest calculation.
-History:
+- **Geometry**:
+  - **Area and Perimeter** calculations for:
+    - **Circle**
+    - **Square**
+    - **Rectangle**
+    - **Triangle**
+  
+- **Statistics**:
+  - **Mean**
+  - **Standard Deviation**
+  - **Probability** of discrete events
+  
+- **Linear Algebra**:
+  - **Matrix multiplication**
+  - **Determinant** calculation for 2x2 matrices
+  
+- **Trigonometry**:
+  - **Sine**, **Cosine**, and **Tangent** calculations
+  - Apply the **Law of Sines** and **Law of Cosines**
 
-All your calculations are stored and displayed in the history section, making it easy to track your past work.
-Security Tip:
-Important Security Warning: Please do not just download and run any application over your PC after downloading from anywhere. Always ensure that you first analyze the code before running it on your system. It could potentially contain harmful modules, such as malware droppers or viruses, that could compromise your computer's security. Always use caution and verify the source before executing any downloaded software. Your security is important!
+---
+
+### **3. History Tracking:**
+- The app saves all your previous calculations, allowing you to easily reference past results.
+
+---
+
+### **4. Expression Calculator:**
+- Enter complex mathematical expressions and get instant results through the integrated **JavaScript engine**.
+
+---
+
+### **5. Dynamic Input Fields:**
+- Based on your selected operation, the input fields will automatically adjust to prompt for the required data (e.g., radius for a circle, side length for a square).
+
+---
+
+## **How It Works**
+
+### **Step 1: Select Operation**
+Choose from a variety of operations such as addition, subtraction, area calculations, and more.
+
+### **Step 2: Enter Inputs**
+Based on the operation you select, the app will ask for the necessary inputs (e.g., radius for a circle, side length for a square, etc.).
+
+### **Step 3: Submit and View Results**
+After entering your data, click the “Submit” button to instantly calculate the result. The result will be displayed in the result field, and the history will update with your latest calculation.
+
+### **Step 4: View History**
+All of your previous calculations will be saved and displayed in the history section for easy reference.
+
+---
+
+## **Important Security Warning**
+
+🚨 **Important Security Tip** 🚨
+
+Please **do not** just download and run any application over your PC after downloading from unknown sources. Always ensure that you **first analyze the code** before running it on your system. 
+
+The application might contain harmful modules, such as **malware droppers** or **viruses**, which could compromise your computer's security. Always use caution and verify the source before executing any downloaded software.
+
+Your security is important! Stay safe and secure online. 🛡️
+
